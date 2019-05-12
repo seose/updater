@@ -1,0 +1,8 @@
+{
+  "version" : 1,
+  "versionMsg" : "if you want to hide msg, set this'key 's value is null",
+  "versionMarket" : false,
+  "versionRun" : true,
+  "run" : true,
+  "msg" : "if you want to hide msg, set this'key 's value is null"
+}
