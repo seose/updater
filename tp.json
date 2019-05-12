@@ -1,8 +1,8 @@
 {
-  "version" : 28,
-  "versionMsg" : null,
-  "versionMarket" : false,
-  "versionRun" : true,
+  "version" : 29,
+  "versionMsg" : "업데이트필요",
+  "versionMarket" : true,
+  "versionRun" : false,
   "run" : true,
   "msg" : null
 }
