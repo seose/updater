@@ -4,7 +4,7 @@ Offer update info when start up service, in case of server dying
 #### How to get json
 ```
 Rest url (using GET method) :
-https://github.com/seose/updater/blob/master/[json file name with .json]
+https://raw.githubusercontent.com/seose/updater/master/[json file name with .json]
 ```
 
 
