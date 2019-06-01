@@ -3,6 +3,6 @@
   "versionMsg" : null,
   "versionMarket" :false,
   "versionRun" : false,
-  "run" : false,
-  "msg" : "THIS_IS_MSG"
+  "run" : true,
+  "msg" : null
 }
