@@ -3,6 +3,6 @@
   "versionMsg" : null,
   "versionMarket" :false,
   "versionRun" : false,
-  "run" : true,
-  "msg" : null
+  "run" : false,
+  "msg" : "~9.6 : checking server"
 }
