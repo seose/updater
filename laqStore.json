@@ -3,6 +3,6 @@
   "versionMsg" : null,
   "versionMarket" : false,
   "versionRun" : true,
-  "run" : false,
-  "msg" : "server check period : 9.5~9.6"
+  "run" : true,
+  "msg" : null
 }
