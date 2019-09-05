@@ -3,6 +3,6 @@
   "versionMsg" : null,
   "versionMarket" :false,
   "versionRun" : false,
-  "run" : true,
+  "run" : false,
   "msg" : "9월 5일부터 9월 6일까지 서버 점검이 있습니다"
 }
