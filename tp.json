@@ -3,6 +3,6 @@
   "versionMsg" : null,
   "versionMarket" :false,
   "versionRun" : false,
-  "run" : true,
-  "msg" : null
+  "run" : false,
+  "msg" : "서버 점검 중 입니다"
 }
